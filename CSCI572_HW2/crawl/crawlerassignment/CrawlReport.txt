@@ -1,0 +1,102 @@
+Name: Dipali Pradeep Bhatt
+USC ID: 3212-3416-86
+School Crawled: USC Sol Price School of Public Policy
+
+Fetch Statistics
+================
+# fetches attempted: 4968
+# fetches succeeded: 3788
+# fetches aborted: 1116
+# fetches failed: 64
+
+Outgoing URLs:
+==============
+Total URLs Extracted: 72254
+# unique URLs extracted: 15343
+# unique URLs within School: 12808
+# unique URLs outside School: 782
+# unique URLs outside USC: 1753
+
+Status Codes:
+=============
+200 OK: 3788
+301 Moved Permanently: 839
+302 Moved Temporarily: 267
+404 Not Found: 63
+503 Service Unavailable: 1
+307 Temporary Redirect: 10
+
+File Sizes: maxDownloadSize Set to 999MB
+===========
+< 1KB: 145
+1KB ~ <10KB: 541
+100KB ~ <1MB: 1344
+10KB ~ <100KB: 1758
+
+Content Types:
+==============
+application/xml: 11
+text/html; charset=utf-8: 566
+image/png: 82
+image/jpeg: 718
+application/pdf: 84
+application/msword: 3
+image/gif: 2
+text/xml: 1
+text/html; charset=UTF-8: 1005
+text/html: 19
+application/json; charset=UTF-8: 203
+text/html;charset=utf-8: 479
+text/xml; charset=UTF-8: 203
+text/css: 210
+application/rss+xml; charset=UTF-8: 202Name: Dipali Pradeep Bhatt
+USC ID: 3212-3416-86
+School Crawled: USC Sol Price School of Public Policy
+
+Fetch Statistics
+================
+# fetches attempted: 4968
+# fetches succeeded: 3778
+# fetches aborted: 1100
+# fetches failed: 88
+
+Outgoing URLs:
+==============
+Total URLs Extracted: 70723
+# unique URLs extracted: 15277
+# unique URLs within School: 12922
+# unique URLs outside School: 646
+# unique URLs outside USC: 1709
+
+Status Codes:
+=============
+200 OK: 3778
+301 Moved Permanently: 828
+302 Moved Temporarily: 262
+404 Not Found: 88
+307 Temporary Redirect: 10
+
+File Sizes: maxDownloadSize Set to 999MB
+===========
+< 1KB: 147
+1KB ~ <10KB: 528
+100KB ~ <1MB: 1396
+10KB ~ <100KB: 1709
+
+Content Types:
+==============
+application/xml: 12
+text/html; charset=utf-8: 516
+image/png: 82
+image/jpeg: 716
+application/pdf: 81
+application/msword: 3
+image/gif: 2
+text/xml: 1
+text/html; charset=UTF-8: 1059
+text/html: 19
+application/json; charset=UTF-8: 192
+text/html;charset=utf-8: 470
+text/xml; charset=UTF-8: 192
+text/css: 226
+application/rss+xml; charset=UTF-8: 209

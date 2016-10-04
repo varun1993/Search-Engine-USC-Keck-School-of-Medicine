@@ -1,0 +1,56 @@
+Name: Varun Mittal
+USC ID: 1904244654
+School crawled: Keck
+
+Fetch Statistics
+================
+# fetches attempted:4995
+# fetches succeeded:
+4228
+# fetches aborted:746
+# fetches failed:21
+
+Outgoing URLs:
+==============
+Total URLs extracted:74713
+# unique URLs extracted:21646
+# unique URLs within School:7899
+# unique USC URLs outside School:1052
+# unique URLs outside USC:12695
+
+Status Codes:
+=============
+200 OK:4228	
+301 Moved Permanently:706
+302 Moved Temporarily:40
+404 Not Found:20
+500 Internal Server Error:1
+
+File Sizes:
+===========
+< 1KB:169
+1KB ~ <10KB:202
+10KB ~ <100KB:1964
+100KB ~ <1MB:1857
+>= 1MB:36
+
+Content Types: 
+==============
+text/html:1
+text/css:168
+text/xml:1
+text/html; charset=UTF-8:2601
+text/xml; charset=UTF-8:9
+image/png:158
+image/jpeg:887
+image/gif:6
+image/bmp:1
+application/xml:8
+application/msword:8
+application/pdf:155
+application/octet-stream:1
+application/rss+xml; charset=UTF-8:224
+
+Notes:
+======
+Maximum Download Size set to 999MB
